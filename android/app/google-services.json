@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "853734934454",
+    "firebase_url": "https://esp32-cam-37f16.firebaseio.com",
+    "project_id": "esp32-cam-37f16",
+    "storage_bucket": "esp32-cam-37f16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853734934454:android:1fcfab405bc85ec5a5a317",
+        "android_client_info": {
+          "package_name": "com.smarttax.aqib_freelancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853734934454-lkt0fom6b1ucvu8tdl5dj38an7arphcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZIVFezFFxcHNNEfJUvXtJC3KNHUo7nIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853734934454-lkt0fom6b1ucvu8tdl5dj38an7arphcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
